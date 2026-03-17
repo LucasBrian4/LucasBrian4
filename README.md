@@ -14,10 +14,11 @@ Aprendendo SQL e Power BI na prática.
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBrian4&layout=compact&theme=dark&hide_border=true&locale=pt-br)
+
 ## Agora
 
-- 🔍 Buscando estágio em TI com foco no Banco de Dados
----
+Buscando estágio em TI com foco em Dados e BI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasblsilva/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lucasblsilva4@gmail.com)
