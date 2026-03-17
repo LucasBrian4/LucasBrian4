@@ -16,7 +16,7 @@ Aprendendo SQL e Power BI na prática.
 
 ## Agora
 
-- 🔍 Buscando estágio em Dados / BI
+- 🔍 Buscando estágio em TI com foco no Banco de Dados
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasblsilva/)
