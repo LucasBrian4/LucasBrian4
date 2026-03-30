@@ -1,7 +1,6 @@
 # Lucas Brian
 
-Estudante de Ciência da Computação com foco em Dados e BI.
-Aprendendo SQL e Power BI na prática.
+Estudante de Ciência da Computação com foco em Análise de Dados.
 
 ---
 
