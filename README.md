@@ -14,6 +14,13 @@ Estudante de Ciência da Computação com foco em Análise de Dados.
 
 ---
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasBrian4&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBrian4&layout=compact&theme=dark&hide_border=true)
+
+---
+
 ## Agora
 
 Buscando estágio em TI com foco em Dados e BI
