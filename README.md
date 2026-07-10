@@ -11,7 +11,7 @@ Estou construindo um portfólio prático resolvendo problemas reais com dados.
 
 - 📍 Sorocaba, SP — buscando estágio em **Análise de Dados / BI**
 - 🎓 Cursando Ciência da Computação
-- 📊 Apaixonado por transformar dados brutos em decisões claras
+- 📊 Entusiasta em transformar dados brutos em decisões claras
 - 🔍 Atualmente aprofundando: **Python para análise de dados** e **SQL avançado**
 - 💬 Me pergunte sobre: Power BI · SQL · Excel · limpeza de dados
 
