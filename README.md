@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas Brian 👋
+# Olá, eu sou o Lucas Brian 
 
 Estudante de Ciência da Computação com foco em **Análise de Dados e Business Intelligence**.
 Estou construindo um portfólio prático resolvendo problemas reais com dados.
@@ -70,14 +70,6 @@ Estou construindo um portfólio prático resolvendo problemas reais com dados.
 > Limpeza de dados, visualizações e geração de insights.
 >
 > `Python` `Pandas` `Seaborn` `Matplotlib`
-
----
-
-## 📈 GitHub Stats
-
-![Lucas Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasBrian4&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBrian4&layout=compact&theme=default&hide_border=true)
 
 ---
 
