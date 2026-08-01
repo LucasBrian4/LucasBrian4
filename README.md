@@ -30,7 +30,6 @@ Estou construindo um portfólio prático resolvendo problemas reais com dados.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
 
 **Versionamento**
 
@@ -65,11 +64,14 @@ Estou construindo um portfólio prático resolvendo problemas reais com dados.
 
 ---
 
-### 🔜 EDA com Python — em breve
-> Análise exploratória completa com pandas, matplotlib e seaborn.
-> Limpeza de dados, visualizações e geração de insights.
+### 🔸 Análise de Vendas — E-commerce (Python)
+> Análise exploratória de 100 mil pedidos do e-commerce Olist, usando pandas e matplotlib.
+> Limpeza de dados, tratamento de datas, cruzamento de tabelas e geração de insights
+> sobre faturamento, prazo de entrega, satisfação do cliente e sazonalidade.
 >
-> `Python` `Pandas` `Seaborn` `Matplotlib`
+> `Python` `Pandas` `Matplotlib` `Jupyter`
+>
+> 📁 [Ver repositório](https://github.com/LucasBrian4/analise-ecommerce-olist)
 
 ---
 
@@ -77,16 +79,3 @@ Estou construindo um portfólio prático resolvendo problemas reais com dados.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasblsilva/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lucasblsilva4@gmail.com)
-
----
-
-
-
-
-  
-
-
-
-
-  
-
