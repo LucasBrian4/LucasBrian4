@@ -53,17 +53,6 @@ Estou construindo um portfólio prático resolvendo problemas reais com dados.
 
 ---
 
-### 🔸 Dashboard SAC — Power BI
-> Painel de atendimento ao cliente com dados de 2023 a 2025.
-> Métricas: volume de chamados, tempo médio de atendimento,
-> taxa de cancelamento e ranking de atendentes.
->
-> `Power BI` `Excel`
->
-> 📁 [Ver repositório](https://github.com/LucasBrian4/dashboard-sac)
-
----
-
 ### 🔸 Análise de Vendas — E-commerce (Python)
 > Análise exploratória de 100 mil pedidos do e-commerce Olist, usando pandas e matplotlib.
 > Limpeza de dados, tratamento de datas, cruzamento de tabelas e geração de insights
