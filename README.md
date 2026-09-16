@@ -40,6 +40,34 @@ Construindo um portfólio prático resolvendo problemas reais com dados.
 
 ## 📂 Projetos
 
+### 🔸 Análise de RH — Modelagem, Hierarquia e Trajetória de Carreira (MySQL)
+> Projeto de modelagem de banco de dados relacional do zero (tabelas, chaves primárias e
+> estrangeiras, normalização), populado com dados fictícios gerados via Python + Faker,
+> respeitando as regras de negócio definidas no schema.
+>
+> **Perguntas respondidas:** Qual o headcount por departamento? Como estão distribuídos os
+> salários? Qual o tempo médio até promoção? Qual a taxa de turnover? Como é a estrutura
+> de liderança da empresa?
+>
+> `MySQL` `Python` `Faker` `Modelagem de Dados`
+>
+> 📁 [Ver repositório](https://github.com/LucasBrian4/analise-rh-mysql)
+
+---
+
+### 🔸 Análise de E-Commerce — Python + SQL + Power BI
+> Dataset com 5.000 registros de vendas de uma loja online (2024–2025), obtido no Kaggle.
+> Dashboard cobrindo faturamento, lucro, categorias, regiões, produtos e formas de pagamento.
+>
+> **Perguntas respondidas:** Qual o faturamento total e o lucro gerado? Qual categoria mais fatura?
+> Quais os 10 produtos mais lucrativos? O desconto impacta a margem de lucro?
+>
+> `Python` `SQL` `Power BI`
+>
+> 📁 [Ver repositório](https://github.com/LucasBrian4/analise-ecommerce)
+
+---
+
 ### 🔸 Análise de Vendas — SQL + Power BI
 > Dataset com 1.000 registros de vendas (2023). Análise de faturamento, sazonalidade,
 > desempenho por vendedor, canal de venda e perfil de cliente.
