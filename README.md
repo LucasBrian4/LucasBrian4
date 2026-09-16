@@ -1,7 +1,7 @@
-# Olá, eu sou o Lucas Brian 
+# Olá, eu sou o Lucas Brian
 
-Estudante de Ciência da Computação com foco em **Análise de Dados e Business Intelligence**.
-Estou construindo um portfólio prático resolvendo problemas reais com dados.
+Formado em Ciência da Computação, com foco em **Análise de Dados e Business Intelligence**.
+Construindo um portfólio prático resolvendo problemas reais com dados.
 
 > *"Dados sem análise são só números. Análise sem contexto é só opinião."*
 
@@ -9,8 +9,8 @@ Estou construindo um portfólio prático resolvendo problemas reais com dados.
 
 ## 🧠 Sobre mim
 
-- 📍 Sorocaba, SP — buscando estágio em **Análise de Dados / BI**
-- 🎓 Cursando Ciência da Computação
+- 📍 Sorocaba, SP — Analista de Dados Júnior
+- 🎓 Ciência da Computação — Universidade Paulista
 - 📊 Entusiasta em transformar dados brutos em decisões claras
 - 🔍 Atualmente aprofundando: **Python para análise de dados** e **SQL avançado**
 - 💬 Me pergunte sobre: Power BI · SQL · Excel · limpeza de dados
