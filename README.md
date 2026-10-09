@@ -40,55 +40,21 @@ Construindo um portfólio prático resolvendo problemas reais com dados.
 
 ## 📂 Projetos
 
+Os projetos fixados no topo do perfil têm README próprio, com perguntas respondidas, insights e como cada um foi feito. Dois destaques:
+
+### 🔸 Dashboard de Indicadores Econômicos — Python + SQLite + Streamlit + GitHub Actions
+> Dashboard com dados reais do Banco Central (dólar, Selic e IPCA) que se atualiza sozinho
+> todo dia útil: coleta via API, banco SQLite e atualização automática com GitHub Actions.
+>
+> 🔗 [Ver dashboard ao vivo](https://indicadores-economicos-lucas.streamlit.app) · 📁 [Ver repositório](https://github.com/LucasBrian4/dashboard-indicadores-economicos)
+
+---
+
 ### 🔸 Análise de RH — Modelagem, Hierarquia e Trajetória de Carreira (MySQL)
-> Projeto de modelagem de banco de dados relacional do zero (tabelas, chaves primárias e
-> estrangeiras, normalização), populado com dados fictícios gerados via Python + Faker,
-> respeitando as regras de negócio definidas no schema.
->
-> **Perguntas respondidas:** Qual o headcount por departamento? Como estão distribuídos os
-> salários? Qual o tempo médio até promoção? Qual a taxa de turnover? Como é a estrutura
-> de liderança da empresa?
->
-> `MySQL` `Python` `Faker` `Modelagem de Dados`
+> Modelagem de banco relacional do zero (chaves, normalização, hierarquia) com dados
+> fictícios gerados em Python + Faker e queries avançadas (CTE, window functions).
 >
 > 📁 [Ver repositório](https://github.com/LucasBrian4/analise-rh-mysql)
-
----
-
-### 🔸 Análise de E-Commerce — Python + SQL + Power BI
-> Dataset com 5.000 registros de vendas de uma loja online (2024–2025), obtido no Kaggle.
-> Dashboard cobrindo faturamento, lucro, categorias, regiões, produtos e formas de pagamento.
->
-> **Perguntas respondidas:** Qual o faturamento total e o lucro gerado? Qual categoria mais fatura?
-> Quais os 10 produtos mais lucrativos? O desconto impacta a margem de lucro?
->
-> `Python` `SQL` `Power BI`
->
-> 📁 [Ver repositório](https://github.com/LucasBrian4/analise-ecommerce)
-
----
-
-### 🔸 Análise de Vendas — SQL + Power BI
-> Dataset com 1.000 registros de vendas (2023). Análise de faturamento, sazonalidade,
-> desempenho por vendedor, canal de venda e perfil de cliente.
->
-> **Perguntas respondidas:** Qual região gera mais receita? Quais meses têm pico de vendas?
-> Clientes novos ou recorrentes compram mais?
->
-> `MySQL` `Power BI` `DAX`
->
-> 📁 [Ver repositório](https://github.com/LucasBrian4/analise-vendas)
-
----
-
-### 🔸 Análise de Vendas — E-commerce (Python)
-> Análise exploratória de 100 mil pedidos do e-commerce Olist, usando pandas e matplotlib.
-> Limpeza de dados, tratamento de datas, cruzamento de tabelas e geração de insights
-> sobre faturamento, prazo de entrega, satisfação do cliente e sazonalidade.
->
-> `Python` `Pandas` `Matplotlib` `Jupyter`
->
-> 📁 [Ver repositório](https://github.com/LucasBrian4/analise-ecommerce-olist)
 
 ---
 
