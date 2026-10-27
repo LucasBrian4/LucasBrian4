@@ -38,26 +38,6 @@ Construindo um portfólio prático resolvendo problemas reais com dados.
 
 ---
 
-## 📂 Projetos
-
-Os projetos fixados no topo do perfil têm README próprio, com perguntas respondidas, insights e como cada um foi feito. Dois destaques:
-
-### 🔸 Dashboard de Indicadores Econômicos — Python + SQLite + Streamlit + GitHub Actions
-> Dashboard com dados reais do Banco Central (dólar, Selic e IPCA) que se atualiza sozinho
-> todo dia útil: coleta via API, banco SQLite e atualização automática com GitHub Actions.
->
-> 🔗 [Ver dashboard ao vivo](https://indicadores-economicos-lucas.streamlit.app) · 📁 [Ver repositório](https://github.com/LucasBrian4/dashboard-indicadores-economicos)
-
----
-
-### 🔸 Análise de RH — Modelagem, Hierarquia e Trajetória de Carreira (MySQL)
-> Modelagem de banco relacional do zero (chaves, normalização, hierarquia) com dados
-> fictícios gerados em Python + Faker e queries avançadas (CTE, window functions).
->
-> 📁 [Ver repositório](https://github.com/LucasBrian4/analise-rh-mysql)
-
----
-
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasblsilva/)
