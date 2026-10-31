@@ -21,7 +21,7 @@ Transformo dados brutos em dashboards, análises e automações que respondem pe
  
 | Projeto | O que faz | Ferramentas |
 |---|---|---|
-| [**Dashboard de Indicadores Econômicos**](https://github.com/LucasBrian4/NOME-DO-REPO) | Coleta dados da API do Banco Central, guarda em banco SQLite e exibe num dashboard online. A atualização dos dados é automática via GitHub Actions. | Python · SQLite · Streamlit · GitHub Actions |
+| [**Dashboard de Indicadores Econômicos**](https://github.com/LucasBrian4/dashboard-indicadores-economicos) | Coleta dados da API do Banco Central, guarda em banco SQLite e exibe num dashboard online. A atualização dos dados é automática via GitHub Actions. | Python · SQLite · Streamlit · GitHub Actions |
 | [**Análise de RH**](https://github.com/LucasBrian4/analise-rh-mysql) | Banco relacional modelado do zero (normalização, chaves, hierarquia por auto-relacionamento) e 6 consultas avançadas com CTE, window functions e self-join. | MySQL · Python (Faker) |
 | [**Análise de E-commerce**](https://github.com/LucasBrian4/analise-ecommerce) | Pipeline completo: limpeza em Python, exploração em SQL e dashboard de 2 páginas no Power BI (5.000 registros). | Python · SQL · Power BI |
 | [**E-commerce Olist**](https://github.com/LucasBrian4/analise-ecommerce-olist) | Análise exploratória de 100 mil pedidos reais do dataset público da Olist. | Python · Pandas · Matplotlib |
